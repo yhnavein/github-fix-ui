@@ -9,7 +9,7 @@
       "css": ["fix.css"]
     }
   ],
-  "permissions": ["activeTab", "storage"],
+  "permissions": [],
   "homepage_url": "https://github.com/yhnavein/github-fix-ui",
   "author": "Piotr Dabrowski",
   "icons": {
